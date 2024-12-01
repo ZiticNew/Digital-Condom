@@ -1,12 +1,14 @@
 # Digital-Condom
-Digital Condom Is a script that blocks a domain list from loading on your device this was mostly built for vrchat
+Digital Condom is a app designed to block a list of specified domains from loading on your device this is fully written in python then converted to an exe by pyinstaller.
 
-
-
-# What I See 
-this script will log your windows username and ip address to an gmail and a webhook apon running it by running this file your aware of that 
-
+# What You Need To Know 
+This application requires administrator access on your device, as it blocks domains by modifying the Win32 host file. Please be aware that this application may trigger false positive virus detections in security software such as Malwarebytes and Windows Defender. To verify its safety, here is the link to the VirusTotal scan.
+ https://www.virustotal.com/gui/file/7ef1b53fb16ca3eb34d926c374ff634e15442b4935ac7390a4a019f4c073f33e?nocache=1
 
 
 # Why I Made This
-To help protect people from loggers in vrchat cause people like to randomly stick a grabify in video players then use webstresser on people and not everyone has the means or wants to pay for a vpn
+This application aims to help protect users in VRChat from malicious loggers. Some individuals exploit vulnerabilities by inserting Grabify links into video players, which are then used to launch web-stress attacks on unsuspecting players and its just overall annoying.
+
+
+# Disclaimer
+By running this script, you acknowledge and consent that your Windows username and IP address will be logged and sent to a Gmail account and a specified webhook.
