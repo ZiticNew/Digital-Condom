@@ -6,7 +6,7 @@ This application requires administrator access on your device, as it blocks doma
  https://www.virustotal.com/gui/file/7ef1b53fb16ca3eb34d926c374ff634e15442b4935ac7390a4a019f4c073f33e?nocache=1
 
 # Bugs
-Occasionally, there may be a bug where pressing Ctrl + C in the terminal does not unblock the sites as expected. For now, I am including an app named Digital Debug to manually correct this issue. This will serve as a temporary fix until a full patch is implemented.
+Occasionally, there may be a bug where pressing Ctrl + C in the terminal does not unblock the sites as expected. For now, I am including an app named Digital Debug to manually correct this issue. This will serve as a temporary fix until a full patch is implemented. If you run into a bug where the sites are no longer being blocked please run the Digital Debug.exe then restart your device if the problem continues reach out to me on the discord in the zips read me file.
 
 # Why I Made This
 This application aims to help protect users in VRChat from malicious loggers. Some individuals exploit vulnerabilities by inserting Grabify links into video players, which are then used to launch web-stress attacks on unsuspecting players and its just overall annoying.
