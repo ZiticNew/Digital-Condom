@@ -12,3 +12,4 @@ This application aims to help protect users in VRChat from malicious loggers. So
 
 # Disclaimer
 By running this script, you acknowledge and consent that your Windows username and IP address will be logged and sent to a Gmail account and a specified webhook.
+![Digital Condom V11](https://github.com/user-attachments/assets/fb9ab5b8-4e48-486d-a032-ab9bb0f1782b)
